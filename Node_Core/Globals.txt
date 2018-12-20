@@ -1,0 +1,17 @@
+ There is a variable named global which is accessible by any Node script or program. 
+ It refers to the global object. This object has properties.
+ 
+ Main Globals
+ These are main properties of global object (global)
+ * process
+ * require()
+ * module and module.exports
+ * console and console.log()
+ * setTimeout() and setInterval()
+ * __dirname __filename
+
+
+ The process object is a global that provides information about, 
+ and control over, the current Node.js process. 
+ As a global, it is always available to Node.js applications without using require().
+ process documentation - https://nodejs.org/api/process.html

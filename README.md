@@ -1,7 +1,7 @@
 # Intro_to_nodejs
 
 ## Language
-[JavaScript](https://www.javascript.com)
+[Node.js](https://www.nodejs.org)
 ## Tools
 node --version\
 v8.10.0\
